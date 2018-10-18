@@ -14752,11 +14752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\GITHUB\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\GITHUB\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
-      "outputPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\SportsStore\\SportsStore\\obj\\",
+      "outputPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\GITHUB\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

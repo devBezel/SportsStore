@@ -9,3 +9,14 @@ B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore
 B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
 B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
 B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\GITHUB\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb

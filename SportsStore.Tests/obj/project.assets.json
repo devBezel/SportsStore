@@ -16154,11 +16154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "projectUniqueName": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\GITHUB\\SportsStore.Tests\\SportsStore.Tests.csproj",
       "projectName": "SportsStore.Tests",
-      "projectPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "projectPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\GITHUB\\SportsStore.Tests\\SportsStore.Tests.csproj",
       "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
-      "outputPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\SportsStore\\SportsStore.Tests\\obj\\",
+      "outputPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\GITHUB\\SportsStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -16177,8 +16177,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\SportsStore\\SportsStore\\SportsStore.csproj": {
-              "projectPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\SportsStore\\SportsStore\\SportsStore.csproj"
+            "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\GITHUB\\SportsStore\\SportsStore.csproj": {
+              "projectPath": "B:\\Projekty\\PROJEKTY_NAUKOWE\\ASP.NET CORE 2 ADAM FREEMAN\\GITHUB\\SportsStore\\SportsStore.csproj"
             }
           }
         }
