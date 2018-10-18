@@ -1,0 +1,17 @@
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.deps.json
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.json
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.dev.json
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.dll
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csprojAssemblyReference.cache
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfoInputs.cache
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfo.cs
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.dll
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.pdb
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CopyComplete
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.dll
+B:\Projekty\PROJEKTY_NAUKOWE\ASP.NET CORE 2 ADAM FREEMAN\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.pdb
