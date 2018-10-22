@@ -3,6 +3,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
     <link rel="stylesheet"
           asp-href-include="lib/boostrap/dist/**/*.min.css"
           asp-href-exclude="**/*-reboot*,**/*-grid*" />
@@ -14,7 +15,7 @@
     </div>
     <div class="row m-1 p-1">
         <div id="categories" class="col-3">
-            Pozniej umiescimy tu cos uzytecznego
+            @await Component.InvokeAsync("NavigationMenu");
         </div>
         <div class="col-9">
             @RenderBody()
