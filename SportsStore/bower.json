@@ -2,6 +2,10 @@
   "name": "asp.net",
   "private": true,
   "dependencies": {
-    "boostrap": "4.1.3"
+    "boostrap": "4.1.3",
+    "Font-Awesome": "5.4.1"
+  },
+  "resolutions": {
+    "Font-Awesome": "5.4.1"
   }
 }
