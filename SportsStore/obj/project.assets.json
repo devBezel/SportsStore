@@ -14742,6 +14742,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 2.2.0-preview2-35157",
       "Microsoft.EntityFrameworkCore.Tools >= 2.2.0-preview2-35157",
       "Microsoft.NETCore.App >= 2.0.0",
+      "Newtonsoft.Json >= 11.0.2",
       "Pomelo.EntityFrameworkCore.MySql >= 2.1.2"
     ]
   },
@@ -14806,6 +14807,10 @@
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[11.0.2, )"
           },
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
