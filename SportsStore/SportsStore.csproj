@@ -6,15 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.0" />
-    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+    <Compile Remove="wwwroot\lib\Font-Awesome\**" />
+    <Content Remove="wwwroot\lib\Font-Awesome\**" />
+    <EmbeddedResource Remove="wwwroot\lib\Font-Awesome\**" />
+    <None Remove="wwwroot\lib\Font-Awesome\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\lib\Font-Awesome\.github\ISSUE_TEMPLATE\bug-report.md" />
-    <None Include="wwwroot\lib\Font-Awesome\.github\ISSUE_TEMPLATE\feature-request.md" />
-    <None Include="wwwroot\lib\Font-Awesome\.github\ISSUE_TEMPLATE\icon-request.md" />
-    <None Include="wwwroot\lib\Font-Awesome\.github\PULL_REQUEST_TEMPLATE.md" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
   </ItemGroup>
 
   <ItemGroup>
