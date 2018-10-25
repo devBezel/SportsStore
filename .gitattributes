@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 SportsStore/wwwroot/lib/boostrap/js/* linguist-vendored
 .js linguist-vendored=true
+.css linguist-vendored=true
