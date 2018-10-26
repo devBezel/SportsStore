@@ -14,6 +14,24 @@ namespace SportsStore.Tests
     public class AdminControllerTests
     {
         [Fact]
+        public void CanDeleteValidProducts()
+        {
+            Product prod = new Product { ProductID = 2, Name = "Test" };
+
+            Mock<IProductRepository> mock = new Mock<IProductRepository>();
+            mock.Setup(m => m.Products).Returns(new Product[]
+            {
+                new Product { ProductID = 1, Name = "P1"},
+                prod,
+                new Product { ProductID = 3, Name = "P3"},
+            }.AsQueryable<Product>());
+
+            AdminController target = new AdminController(mock.Object);
+            target.Delete(prod.ProductID);
+
+            mock.Verify(m => m.DeleteProduct(prod.ProductID));
+        }
+        [Fact]
         public void CanSaveValidChanges()
         {
             Mock<IProductRepository> mock = new Mock<IProductRepository>();
